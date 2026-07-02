@@ -199,11 +199,9 @@ This project is released under the MIT License.
 
 For questions, suggestions, or collaborations, please contact
 
-**Your Name**
+**Lijie Wang**
 
-**Your Institution**
-
-<your_email@xxx.edu.cn>
+<lijiewang@zhejianglab.org>
 
 ***
 
